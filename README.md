@@ -23,11 +23,11 @@ Python · Java · JavaScript · SQL
 
 **Backend:** Node.js · Express.js · Flask · REST APIs
 
-**Databases:** PostgreSQL · MySQL · Supabase · MongoDB
+**Databases:** PostgreSQL · MySQL ·  MongoDB
 
-**AI/ML:** Machine Learning · Generative AI · LangChain · Ollama · RAG
+**AI/ML:** Machine Learning · Generative AI · LangChain · RAG
 
-**Tools:** Git · GitHub · Postman · npm
+**Tools:** Git · GitHub · Postman 
 
 I work with modern web technologies depending on project requirements, building full-stack applications using React with Node.js/Express or Flask, backed by PostgreSQL, MongoDB, or Supabase.
 
